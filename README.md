@@ -12,3 +12,6 @@ The environment inputs of the image are:-
 2. MYSQL_HOST= environment variable to set the MySQL host to servers list.
 3. MYSQL_USER = environment variable to add the MySQL user. [Note: the user must have created in MySQL and host should be set to %.]
 4. MYSQL_USER_PASSWORD = environment variable to add the password of MySQL user.
+
+
+MIT © [Ravishankar S R](mailto:ravishankarsr.rav@gmail.com)
