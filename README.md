@@ -1,7 +1,8 @@
 # proxysql
 This repository has a Dockerfile and other configuration file of proxysql container image which automatically configures the MySQL node.
 
-# Proxysql v.1.4.10 with automatic configuration of mysql single node.
+# Proxysql v1.4.10 with automatic configuration of mysql single node.
+# Link to Image: https://hub.docker.com/r/ravishankarsr/proxysql/
 The image configures automatically by picking arguments from environment variables.
 The image can be used to configure proxysql for the single MySQL node.
 The image configures the single node to default host group which receives both read and write traffic.
